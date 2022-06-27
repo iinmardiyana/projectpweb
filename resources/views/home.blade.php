@@ -2,7 +2,7 @@
 
 @section('container')
 <center>
-    <h1>Welcome to ZAP Laundry</h1>
+    <h1>Hello, Welcome to ZAP Laundry!</h1>
     <br>
     <img src="{{ asset('img/lg.png') }}" alt="" width="200" height="200">
     <br> <br>
